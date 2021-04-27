@@ -22,6 +22,7 @@ public class Main {
       reverseTable(numbers);
         sort(numbers);
         srednia(numbers);
+        //zadania
 
     }
 
